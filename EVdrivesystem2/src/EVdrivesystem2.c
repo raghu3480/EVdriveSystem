@@ -12,6 +12,6 @@
 #include <stdlib.h>
 
 int main(void) {
-	printf("PLXWORX"); /* prints !!!Hello World!!! */
+	printf("PLXWORX COMPANY");
 	return EXIT_SUCCESS;
 }
